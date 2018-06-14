@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.vistrav:ask-2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ask-2.4.aar/c5001ede8c39247ee7de25bea0352cee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ask-2.4.aar/c5001ede8c39247ee7de25bea0352cee/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vistrav/ask/2.4/239c0ed25af20b49d2f03bce4ffc8621ab948728/ask-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
